@@ -71,7 +71,7 @@ Implementação de filtros dinâmicos que cruzam dados temporais com tópicos se
 Siga estes passos para rodar o dashboard na sua máquina:
 
 Clone o repositório:
-git clone [https://github.com/SEU_USUARIO/NOME_DO_REPO.git](https://github.com/Vitoria-analyst/Observatorio-da-Comunidade-Cientifica.git)
+git clone [https://github.com/Vitoria-analyst/Observatorio-da-Comunidade-Cientifica.git](https://github.com/Vitoria-analyst/Observatorio-da-Comunidade-Cientifica.git)
 cd Observatorio-da-Comunidade-Cientifica
 
 Instale as dependências:
