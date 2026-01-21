@@ -83,3 +83,5 @@ streamlit run app.py
 ---
 ## 👩‍💻 Autores
 Vitória Rodrigues - [LinkedIn](https://www.linkedin.com/in/vitoria-rodrigues-/)
+
+Desenvolvido para a UC de Introdução à Ciência de Dados - Mestrado em Data Science (UA)
